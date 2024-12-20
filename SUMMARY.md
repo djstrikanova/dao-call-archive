@@ -9,13 +9,13 @@
 ***
 
 * [December 11th, 2024 DAO Call](december-11th-2024-dao-call.md)
-* [November 27th, 2024 DAO Call](november-27th-2024-dao-call.md)
-* [November 13th, 2024 DAO Call](november-13th-2024-dao-call.md)
-* [October 30th, 2024 DAO Call](october-30th-2024-dao-call.md)
 
 ## Archive
 
 * [2024 DAO Calls](archive/2024-dao-calls/README.md)
+  * [November 27th, 2024 DAO Call](archive/2024-dao-calls/november-27th-2024-dao-call.md)
+  * [November 13th, 2024 DAO Call](archive/2024-dao-calls/november-13th-2024-dao-call.md)
+  * [October 30th, 2024 DAO Call](archive/2024-dao-calls/october-30th-2024-dao-call.md)
   * [October  2nd, 2024 DAO Call](archive/2024-dao-calls/october-2nd-2024-dao-call.md)
   * [September 18th, 2024 DAO Call](archive/2024-dao-calls/september-18th-2024-dao-call.md)
   * [September 4th, 2024 DAO Call](archive/2024-dao-calls/september-4th-2024-dao-call.md)
@@ -141,4 +141,4 @@
   * [AI and Blockchain to fight misinformation (April 5th, 2023)](effect-ai-content/twitter-spaces-archive/ai-and-blockchain-to-fight-misinformation-april-5th-2023.md)
   * [Ai in web3, where do I start? (February 28th, 2023)](effect-ai-content/twitter-spaces-archive/ai-in-web3-where-do-i-start-february-28th-2023.md)
   * [ChatGPT, blockchain and AI (January 1st, 2023)](effect-ai-content/twitter-spaces-archive/chatgpt-blockchain-and-ai-january-1st-2023.md)
-* [2018 Effect AI NEO Whitepaper](effect-ai-content/2018-effect-ai-neo-whitepaper.md)
+* [2018 Effect AI NEO Whitepaper](other-content/2018-effect-ai-neo-whitepaper.md)
