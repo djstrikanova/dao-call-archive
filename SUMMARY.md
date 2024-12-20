@@ -132,10 +132,16 @@
     * [DAO Call – March 17, 2021](archive/2021-dao-calls/march-2021/untitled-6.md)
     * [DAO Call – March 10, 2021](archive/2021-dao-calls/march-2021/untitled-7.md)
 
-## Effect Network Content
+## Effect AI Content
 
-* [Twitter Spaces Archive](effect-network-content/twitter-spaces-archive/README.md)
-  * [Quality Datasets for AI (June 29th, 2023)](effect-network-content/twitter-spaces-archive/quality-datasets-for-ai-june-29th-2023.md)
-  * [AI and Blockchain to fight misinformation (April 5th, 2023)](effect-network-content/twitter-spaces-archive/ai-and-blockchain-to-fight-misinformation-april-5th-2023.md)
-  * [Ai in web3, where do I start? (February 28th, 2023)](effect-network-content/twitter-spaces-archive/ai-in-web3-where-do-i-start-february-28th-2023.md)
-  * [ChatGPT, blockchain and AI (January 1st, 2023)](effect-network-content/twitter-spaces-archive/chatgpt-blockchain-and-ai-january-1st-2023.md)
+* [DJSTRIKANOVA Articles](effect-ai-content/djstrikanova-articles/README.md)
+  * [Effect AI: Searching for the Right Home (Part 1)](effect-ai-content/djstrikanova-articles/effect-ai-searching-for-the-right-home-part-1.md)
+* [Twitter Spaces Archive](effect-ai-content/twitter-spaces-archive/README.md)
+  * [Quality Datasets for AI (June 29th, 2023)](effect-ai-content/twitter-spaces-archive/quality-datasets-for-ai-june-29th-2023.md)
+  * [AI and Blockchain to fight misinformation (April 5th, 2023)](effect-ai-content/twitter-spaces-archive/ai-and-blockchain-to-fight-misinformation-april-5th-2023.md)
+  * [Ai in web3, where do I start? (February 28th, 2023)](effect-ai-content/twitter-spaces-archive/ai-in-web3-where-do-i-start-february-28th-2023.md)
+  * [ChatGPT, blockchain and AI (January 1st, 2023)](effect-ai-content/twitter-spaces-archive/chatgpt-blockchain-and-ai-january-1st-2023.md)
+
+## Other Content
+
+* [2018 Effect AI NEO Whitepaper](other-content/2018-effect-ai-neo-whitepaper.md)
