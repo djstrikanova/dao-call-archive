@@ -144,7 +144,7 @@ Despite these challenges, the team continued innovating with new projects:
 
 #### Effect Socials
 
-The team launched [Effect Socials](https://medium.com/effect-ai/introducing-social-ads-for-web3-1c58078ee157), a fully EFX-based platform that enabled brands to compensate workers for social media engagement, particularly on Twitter. This project successfully implemented the new decentralized system.
+The team launched [Effect Socials](https://medium.com/effect-ai/introducing-social-ads-for-web3-1c58078ee157), a fully EFX-based platform that enabled brands to compensate workers for social media engagement. This project successfully implemented the new decentralized system.
 
 #### Neural Frens Collaboration
 
