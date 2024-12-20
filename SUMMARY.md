@@ -141,7 +141,4 @@
   * [AI and Blockchain to fight misinformation (April 5th, 2023)](effect-ai-content/twitter-spaces-archive/ai-and-blockchain-to-fight-misinformation-april-5th-2023.md)
   * [Ai in web3, where do I start? (February 28th, 2023)](effect-ai-content/twitter-spaces-archive/ai-in-web3-where-do-i-start-february-28th-2023.md)
   * [ChatGPT, blockchain and AI (January 1st, 2023)](effect-ai-content/twitter-spaces-archive/chatgpt-blockchain-and-ai-january-1st-2023.md)
-
-## Other Content
-
-* [2018 Effect AI NEO Whitepaper](other-content/2018-effect-ai-neo-whitepaper.md)
+* [2018 Effect AI NEO Whitepaper](effect-ai-content/2018-effect-ai-neo-whitepaper.md)
