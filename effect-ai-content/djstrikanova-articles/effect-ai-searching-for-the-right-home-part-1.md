@@ -183,6 +183,12 @@ The Effect DAO [initially supported a bridge](https://dao.effect.network/proposa
 
 [By September 2024](https://docs.effectdao.tools/dao-archive/archive/2024-dao-calls/september-4th-2024-dao-call), after these successive setbacks, both the team and Effect DAO reached a unanimous decision: continuing to refactor Effect Force on EOS was futile. The future clearly lay with Solana. In its final cycles, the Effect DAO focused on preparing for this transition, establishing the framework for unifying EFX and NFX into the new Solana token "EFFECT." These final meetings centered on ratifying migration deadlines and terms, setting the stage for Effect AI's next chapter on a more promising blockchain platform.
 
+### Snapshot and Migration
+
+[The migration to Solana](https://effect.ai/news/solana-announcement) is set to commence with a snapshot on January 1, 2025. All EFX tokens on the EOS and Binance Smart Chain (BSC) platforms, along with NFX tokens on EOS, will be recorded. These cross-chain snapshots will then be stored in a Solana-based smart contract.
+
+Starting January 5, 2025, EFX and NFX holders can verify the digital signatures of their accounts to claim their new EFFECT tokens on Solana. This pivotal transition marks the end of Effect AI's operations on EOS and BSC, as the project embarks on its next chapter within the Solana ecosystem.
+
 ### Solana: The Promised Land
 
 Effect AI's journey began with an ambitious vision laid out in its whitepaper: to establish a decentralized network for artificial intelligence. While this initial scope proved too broad, the project found its focus in Effect Force, creating a decentralized microtasking platform. Now, as Effect AI looks toward Solana, that original vision seems more achievable than ever.
