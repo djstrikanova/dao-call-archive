@@ -1,8 +1,8 @@
 ---
 description: >-
-  This article is Part 2 of 2, building upon the foundation laid in Part 1. With
-  Effect AI’s history explored, we now turn to the developments on Solana that
-  make it the ideal home for the next chapter
+  This is Part 2 of 2. After exploring Effect AI’s history, we now focus on why
+  Solana is the perfect platform for the project’s next chapter. Key to this
+  evolution is the emergence of AI agents.
 ---
 
 # Effect AI: Searching for the Right Home (Part 2)
