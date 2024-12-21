@@ -135,6 +135,7 @@
 ## Effect AI Content
 
 * [DJSTRIKANOVA Articles](effect-ai-content/djstrikanova-articles/README.md)
+  * [Effect AI: Searching for the Right Home (Part 2)](effect-ai-content/djstrikanova-articles/effect-ai-searching-for-the-right-home-part-2.md)
   * [Effect AI: Searching for the Right Home (Part 1)](effect-ai-content/djstrikanova-articles/effect-ai-searching-for-the-right-home-part-1.md)
 * [Twitter Spaces Archive](effect-ai-content/twitter-spaces-archive/README.md)
   * [Quality Datasets for AI (June 29th, 2023)](effect-ai-content/twitter-spaces-archive/quality-datasets-for-ai-june-29th-2023.md)
