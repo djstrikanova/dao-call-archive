@@ -59,7 +59,7 @@ Effect Force will operate on Solana, enabling cryptocurrency settlements for tas
 
 ### Supply Chain Overwatch
 
-Decentralized Physical Infrastructure Networks (DePIN) have the potential to revolutionize how AI agents monitor and respond to supply chain dynamics. In the future, a project like [@hivemapper](https://x.com/Hivemapper) could play a pivotal role by leveraging decentralized mapping. Drivers—such as truckers or rideshare providers on platforms like Uber—install specialized dashcams on their vehicles and earn $HONEY tokens for contributing to a continuously updated geospatial database as they carry out their daily routes.
+Decentralized Physical Infrastructure Networks (DePIN) have the potential to revolutionize how AI agents monitor and respond to supply chain dynamics. In the future, a project like [@hivemapper](https://x.com/Hivemapper) would play a pivotal role by leveraging decentralized mapping. Drivers—such as truckers or rideshare providers on platforms like Uber—install specialized dashcams on their vehicles and earn $HONEY tokens for contributing to a continuously updated geospatial database as they carry out their daily routes.
 
 As truck drivers traverse vast distances, particularly through agricultural regions, they capture invaluable images of crops and farmland. An AI agent would access this data via Hivemapper’s API and process it through a specialized model hosted on Nosana. This model would analyze crop growth patterns, identifying trends and anomalies. By integrating data from [@SkyX\_Network](https://x.com/SkyX_Network)—another potential DePIN project offering weather and environmental metrics—the agent would correlate crop growth with temperature and seasonal changes, building a robust dataset.
 
