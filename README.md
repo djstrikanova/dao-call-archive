@@ -11,7 +11,3 @@ You may verify these links at [https://effect.ai/](https://effect.ai/)
 {% embed url="https://discord.gg/effectnetwork" %}
 
 {% embed url="https://t.me/effectai" %}
-
-Related X Links:
-
-{% embed url="https://x.com/effectaix" %}
