@@ -8,6 +8,7 @@
 
 ***
 
+* [December 27th, 2024 DAO Call](december-27th-2024-dao-call.md)
 * [December 11th, 2024 DAO Call](december-11th-2024-dao-call.md)
 
 ## Archive
