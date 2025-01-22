@@ -8,6 +8,7 @@
 
 ***
 
+* [January 22nd, 2025 Community Call](january-22nd-2025-community-call.md)
 * [December 27th, 2024 DAO Call](december-27th-2024-dao-call.md)
 * [December 11th, 2024 DAO Call](december-11th-2024-dao-call.md)
 
