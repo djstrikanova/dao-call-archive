@@ -8,6 +8,7 @@
 
 ***
 
+* [April 2nd, 2025 Effect AI Community Call](april-2nd-2025-effect-ai-community-call.md)
 * [March 6th, 2025 Effect AI Community Call](march-6th-2025-effect-ai-community-call.md)
 * [January 22nd, 2025 Community Call](january-22nd-2025-community-call.md)
 
